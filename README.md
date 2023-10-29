@@ -18,6 +18,9 @@ I WANT TO complete code reviews
 SO THAT I can identify bugs and enhance code quality
 ```
 
+## Inspiration
+
+https://startbootstrap.com/previews/freelancer
 
 
 
